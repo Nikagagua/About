@@ -77,16 +77,16 @@ In my spare time, I am deeply passionate about coding and constantly seeking to 
 
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb)
-![Azure](https://img.shields.io/badge/-Azure-blue?style=flat-square&logo=microsoft-azure)
+[![Azure SQL Database](https://img.shields.io/badge/-Azure%20SQL%20Database-blue?style=flat-square&logo=microsoft-azure)](https://azure.microsoft.com/services/sql-database/)
+
 
 
 <h4 align="center">Software</h4>
 <div align="center">
 
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
-![Figma](https://img.shields.io/badge/-Figma-orange?style=flat-square&logo=figma)
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker)
-
+![Figma](https://img.shields.io/badge/-Figma-orange?style=flat-square&logo=figma)
 
 </div>
 
