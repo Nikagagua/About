@@ -39,9 +39,6 @@ In my spare time, I am deeply passionate about coding and constantly seeking to 
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![C#](https://img.shields.io/badge/-C%23-green?style=flat-square&logo=csharp)
-![Django](https://img.shields.io/badge/-Django-darkgreen?style=flat-square&logo=django)
-![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
-![.NET](https://img.shields.io/badge/-.NET-blueviolet?style=flat-square&logo=.net)
 
 </div>
 
@@ -49,11 +46,21 @@ In my spare time, I am deeply passionate about coding and constantly seeking to 
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=bootstrap)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)
 ![HTML5](https://img.shields.io/badge/-HTML5-red?style=flat-square&logo=html5)
 
+</div>
+
+
+<h4 align="center">Framework</h4>
+<div align="center">
+
+![Django](https://img.shields.io/badge/-Django-darkgreen?style=flat-square&logo=django)
+![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
+![.NET](https://img.shields.io/badge/-.NET-blueviolet?style=flat-square&logo=.net)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=bootstrap)
+  
 </div>
 
 <h4 align="center">Testing</h4>
@@ -79,7 +86,7 @@ In my spare time, I am deeply passionate about coding and constantly seeking to 
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 ![Figma](https://img.shields.io/badge/-Figma-orange?style=flat-square&logo=figma)
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker)
-![Pandas](https://img.shields.io/badge/-Pandas-grey?style=flat-square&logo=pandas)
+
 
 </div>
 
