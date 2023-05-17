@@ -52,7 +52,7 @@ In my spare time, I am deeply passionate about coding and constantly seeking to 
 </div>
 
 
-<h4 align="center">Framework</h4>
+<h4 align="center">Frameworks</h4>
 <div align="center">
 
 ![Django](https://img.shields.io/badge/-Django-darkgreen?style=flat-square&logo=django)
