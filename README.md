@@ -7,8 +7,6 @@
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=nikagagua&label=Profile%20views&color=0e75b6&style=flat)
-  
 **About Me**
 
 Hello! I'm **Nika Gagua**, an aspiring software developer with a passion for learning and solving problems. <br>
@@ -99,6 +97,8 @@ In my spare time, I am deeply passionate about coding and constantly seeking to 
 </div>
 
 <div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=nikagagua&label=Profile%20views&color=0e75b6&style=flat)
   
 For any inquiries, please reach out to me at: **Nikagagua@live.com**
 
