@@ -10,9 +10,10 @@
 **About Me**
 
 Hello! I'm **Nika Gagua**, an aspiring software developer with a passion for learning and solving problems. <br>
-I'm currently diving deep into **Python** and exploring its vast potential. <br>
-I come from a diverse background, which gives me a unique perspective when approaching challenges. <br>
-In my spare time, I am deeply passionate about coding and constantly seeking to learn and master new technologies. My curiosity drives me to spend hours delving into the depths of the tech world, and I find immense joy in solving problems and bringing ideas to life through code.
+I'm currently diving deep into **Python** and exploring its vast potential.
+I come from a diverse background, which gives me a unique perspective when approaching challenges. <br> 
+In my spare time, I am deeply passionate about coding and constantly seeking to learn and master new technologies. <br>
+My curiosity drives me to spend hours delving into the depths of the tech world, and I find immense joy in solving problems and bringing ideas to life through code.
 ---
 
 </div>
