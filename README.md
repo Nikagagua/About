@@ -58,7 +58,7 @@ My curiosity drives me to spend hours delving into the depths of the tech world,
 [![Django](https://img.shields.io/badge/-Django-darkgreen?style=flat-square&logo=django)](https://www.djangoproject.com/)
 [![.NET](https://img.shields.io/badge/-.NET-blueviolet?style=flat-square&logo=.net)](https://dotnet.microsoft.com/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=bootstrap)](https://getbootstrap.com/)
-<!-- [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://reactjs.org/) -->
+[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://reactjs.org/)
 
 
 </div>
