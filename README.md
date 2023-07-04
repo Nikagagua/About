@@ -37,7 +37,8 @@ My curiosity drives me to spend hours delving into the depths of the tech world,
 <div align="center">
 
 [![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)](https://www.python.org/)
-[![C#](https://img.shields.io/badge/-C%23-green?style=flat-square&logo=csharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![C#](https://img.shields.io/badge/-C%23-blue?style=flat-square&logo=csharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)](https://nodejs.org/)
 
 </div>
 
@@ -57,10 +58,10 @@ My curiosity drives me to spend hours delving into the depths of the tech world,
 [![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)](https://flask.palletsprojects.com/)
 [![Django](https://img.shields.io/badge/-Django-darkgreen?style=flat-square&logo=django)](https://www.djangoproject.com/)
 [![.NET](https://img.shields.io/badge/-.NET-blueviolet?style=flat-square&logo=.net)](https://dotnet.microsoft.com/)
+[![ASP.NET](https://img.shields.io/badge/-ASP.NET-orange?style=flat-square&logo=.net)](https://dotnet.microsoft.com/apps/aspnet)
+[![Express](https://img.shields.io/badge/-Express-lightgrey?style=flat-square&logo=express)](https://expressjs.com/)
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://reactjs.org/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=bootstrap)](https://getbootstrap.com/)
-
-
 
 
 </div>
@@ -81,6 +82,8 @@ My curiosity drives me to spend hours delving into the depths of the tech world,
 [![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb)](https://www.mongodb.com/)
 [![SQLite](https://img.shields.io/badge/-SQLite-lightgray?style=flat-square&logo=sqlite)](https://www.sqlite.org/)
 [![Azure SQL Database](https://img.shields.io/badge/-Azure%20SQL%20Database-blue?style=flat-square&logo=microsoft-azure)](https://azure.microsoft.com/services/sql-database/)
+[![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-orange?style=flat-square&logo=microsoft-sql-server)](https://www.microsoft.com/en-us/sql-server)
+
 
 <h4 align="center">Software</h4>
 <div align="center">
@@ -95,8 +98,13 @@ My curiosity drives me to spend hours delving into the depths of the tech world,
 <div align="center">
 
 [![PyCharm](https://img.shields.io/badge/-PyCharm-black?style=flat-square&logo=pycharm)](https://www.jetbrains.com/pycharm/)
-[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)](https://git-scm.com/)
+[![Visual Studio Enterprise](https://img.shields.io/badge/-Visual%20Studio%20Enterprise-purple?style=flat-square&logo=visual-studio)](https://visualstudio.microsoft.com/vs/)
 [![VSCode](https://img.shields.io/badge/-VSCode-blue?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
+[![Windows Subsystem for Linux](https://img.shields.io/badge/-WSL-lightgray?style=flat-square&logo=ubuntu)](https://docs.microsoft.com/en-us/windows/wsl/)
+[![Git Bash](https://img.shields.io/badge/-Git%20Bash-black?style=flat-square&logo=git)](https://gitforwindows.org/)
+[![SourceTree](https://img.shields.io/badge/-SourceTree-blue?style=flat-square&logo=atlassian)](https://www.sourcetreeapp.com/)
+
+
 
 </div>
 
