@@ -38,7 +38,7 @@
 
 [![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)](https://www.python.org/)
 [![C#](https://img.shields.io/badge/-C%23-blue?style=flat-square&logo=csharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)](https://nodejs.org/)
+
 
 </div>
 
@@ -59,7 +59,7 @@
 [![Django](https://img.shields.io/badge/-Django-darkgreen?style=flat-square&logo=django)](https://www.djangoproject.com/)
 [![.NET](https://img.shields.io/badge/-.NET-blueviolet?style=flat-square&logo=.net)](https://dotnet.microsoft.com/)
 [![ASP.NET](https://img.shields.io/badge/-ASP.NET-orange?style=flat-square&logo=.net)](https://dotnet.microsoft.com/apps/aspnet)
-[![Express](https://img.shields.io/badge/-Express-lightgrey?style=flat-square&logo=express)](https://expressjs.com/)
+[![Angular](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular)](https://angular.io/)
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://reactjs.org/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=bootstrap)](https://getbootstrap.com/)
 
