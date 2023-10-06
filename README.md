@@ -23,6 +23,7 @@
 <h2 align="center">🌐 Find me around the web:</h2>
 <div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/nikagagua/)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&labelColor=blue)](https://twitter.com/nicknet1c)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/nicknet1c/)
 
