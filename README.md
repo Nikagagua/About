@@ -60,6 +60,7 @@
 [![ASP.NET](https://img.shields.io/badge/-ASP.NET-orange?style=flat-square&logo=.net)](https://dotnet.microsoft.com/apps/aspnet)
 [![Angular](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular)](https://angular.io/)
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=bootstrap)](https://getbootstrap.com/)
 
 
@@ -96,6 +97,7 @@
 <h4 align="center">Tools</h4>
 <div align="center">
 
+[![Rider](https://img.shields.io/badge/-Rider-black?style=flat-square&logo=rider)](https://www.jetbrains.com/rider/)
 [![PyCharm](https://img.shields.io/badge/-PyCharm-black?style=flat-square&logo=pycharm)](https://www.jetbrains.com/pycharm/)
 [![Visual Studio Enterprise](https://img.shields.io/badge/-Visual%20Studio%20Enterprise-purple?style=flat-square&logo=visual-studio)](https://visualstudio.microsoft.com/vs/)
 [![VSCode](https://img.shields.io/badge/-VSCode-blue?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
