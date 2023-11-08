@@ -47,15 +47,18 @@ Feel free to reach out for collaboration, discussions, or just to say hi. Togeth
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![HTML5](https://img.shields.io/badge/-HTML5-red?style=flat-square&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![SCSS](https://img.shields.io/badge/-SCSS-pink?style=flat-square&logo=sass)](ADD_SCSS_DOCUMENTATION_LINK)
+[![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](ADD_TAILWIND_DOCUMENTATION_LINK)
 
 </div>
+
 
 
 <h4 align="center">Frameworks</h4>
 <div align="center">
  
-[![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)](https://flask.palletsprojects.com/)
 [![Django](https://img.shields.io/badge/-Django-darkgreen?style=flat-square&logo=django)](https://www.djangoproject.com/)
+[![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)](https://flask.palletsprojects.com/)
 [![.NET](https://img.shields.io/badge/-.NET-blueviolet?style=flat-square&logo=.net)](https://dotnet.microsoft.com/)
 [![ASP.NET](https://img.shields.io/badge/-ASP.NET-orange?style=flat-square&logo=.net)](https://dotnet.microsoft.com/apps/aspnet)
 [![Angular](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular)](https://angular.io/)
