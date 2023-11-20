@@ -59,7 +59,6 @@ Feel free to reach out for collaboration, discussions, or just to say hi. Togeth
  
 [![Django](https://img.shields.io/badge/-Django-darkgreen?style=flat-square&logo=django)](https://www.djangoproject.com/)
 [![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)](https://flask.palletsprojects.com/)
-[![.NET](https://img.shields.io/badge/-.NET-blueviolet?style=flat-square&logo=.net)](https://dotnet.microsoft.com/)
 [![ASP.NET](https://img.shields.io/badge/-ASP.NET-orange?style=flat-square&logo=.net)](https://dotnet.microsoft.com/apps/aspnet)
 [![Angular](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular)](https://angular.io/)
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://reactjs.org/)
@@ -81,11 +80,11 @@ Feel free to reach out for collaboration, discussions, or just to say hi. Togeth
 <h4 align="center">Databases</h4>
 <div align="center">
 
-[![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql)](https://www.mysql.com/)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb)](https://www.mongodb.com/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-lightgray?style=flat-square&logo=postgresql)](https://www.postgresql.org/)
+[![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-orange?style=flat-square&logo=microsoft-sql-server)](https://www.microsoft.com/en-us/sql-server)
 [![SQLite](https://img.shields.io/badge/-SQLite-lightgray?style=flat-square&logo=sqlite)](https://www.sqlite.org/)
 [![Azure SQL Database](https://img.shields.io/badge/-Azure%20SQL%20Database-blue?style=flat-square&logo=microsoft-azure)](https://azure.microsoft.com/services/sql-database/)
-[![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-orange?style=flat-square&logo=microsoft-sql-server)](https://www.microsoft.com/en-us/sql-server)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb)](https://www.mongodb.com/)
 
 
 <h4 align="center">Software</h4>
