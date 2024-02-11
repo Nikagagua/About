@@ -115,9 +115,9 @@ Feel free to reach out for collaboration, discussions, or just to say hi. Togeth
 <h2 align="center">📈 GitHub Stats:</h2>
 <div align="center">
 
-[![Nika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikagagua&count_private=true&show_icons=true&theme=radical)](https://github.com/nikagagua)
+[![Nika's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikagagua&theme=radical)](https://github.com/nikagagua)
   
-[![Nika's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikagagua&langs_count=5&theme=radical)](https://github.com/nikagagua)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikagagua&layout=compact&theme=radical)](https://github.com/nikagagua)
 
 </div>
 
