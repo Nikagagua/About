@@ -47,8 +47,8 @@ Feel free to reach out for collaboration, discussions, or just to say hi. Togeth
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![HTML5](https://img.shields.io/badge/-HTML5-red?style=flat-square&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![SCSS](https://img.shields.io/badge/-SCSS-pink?style=flat-square&logo=sass)](ADD_SCSS_DOCUMENTATION_LINK)
-[![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](ADD_TAILWIND_DOCUMENTATION_LINK)
+[![SCSS](https://img.shields.io/badge/-SCSS-pink?style=flat-square&logo=sass)]()
+[![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)]()
 
 </div>
 
@@ -86,6 +86,7 @@ Feel free to reach out for collaboration, discussions, or just to say hi. Togeth
 [![Azure SQL Database](https://img.shields.io/badge/-Azure%20SQL%20Database-blue?style=flat-square&logo=microsoft-azure)](https://azure.microsoft.com/services/sql-database/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb)](https://www.mongodb.com/)
 
+</div>
 
 <h4 align="center">Software</h4>
 <div align="center">
@@ -99,17 +100,28 @@ Feel free to reach out for collaboration, discussions, or just to say hi. Togeth
 <h4 align="center">Tools</h4>
 <div align="center">
 
-[![Rider](https://img.shields.io/badge/-Rider-black?style=flat-square&logo=rider)](https://www.jetbrains.com/rider/)
 [![PyCharm](https://img.shields.io/badge/-PyCharm-black?style=flat-square&logo=pycharm)](https://www.jetbrains.com/pycharm/)
+[![Rider](https://img.shields.io/badge/-Rider-black?style=flat-square&logo=rider)](https://www.jetbrains.com/rider/)
 [![Visual Studio Enterprise](https://img.shields.io/badge/-Visual%20Studio%20Enterprise-purple?style=flat-square&logo=visual-studio)](https://visualstudio.microsoft.com/vs/)
 [![VSCode](https://img.shields.io/badge/-VSCode-blue?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
 [![Windows Subsystem for Linux](https://img.shields.io/badge/-WSL-lightgray?style=flat-square&logo=ubuntu)](https://docs.microsoft.com/en-us/windows/wsl/)
 [![Git Bash](https://img.shields.io/badge/-Git%20Bash-black?style=flat-square&logo=git)](https://gitforwindows.org/)
 [![SourceTree](https://img.shields.io/badge/-SourceTree-blue?style=flat-square&logo=atlassian)](https://www.sourcetreeapp.com/)
 
+</div>
 
+---
+
+<h2 align="center">📈 GitHub Stats:</h2>
+<div align="center">
+
+[![Nika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikagagua&count_private=true&show_icons=true&theme=radical)](https://github.com/nikagagua)
+  
+[![Nika's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikagagua&langs_count=5&theme=radical)](https://github.com/nikagagua)
 
 </div>
+
+---
 
 <div align="center">
   
@@ -118,4 +130,3 @@ Feel free to reach out for collaboration, discussions, or just to say hi. Togeth
 For any inquiries, please reach out to me at: **Nikagagua@live.com**
 
 </div>
-
