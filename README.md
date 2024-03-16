@@ -129,5 +129,4 @@ Feel free to reach out for collaboration, discussions, or just to say hi. Togeth
   
 For any inquiries, please reach out to me at: **Nikagagua@live.com**
 
-
 </div>
