@@ -32,7 +32,7 @@ Feel free to reach out for collaboration, discussions, or just to say hi. Togeth
 
 <h2 align="center">🛠️ Languages & Tools:</h2>
 
-<h4 align="center">Backend Development</h4>
+<h4 align="center">Backend Development</h4> 
 <div align="center">
 
 [![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)](https://www.python.org/)
