@@ -19,7 +19,7 @@ Feel free to reach out for collaboration, discussions, or just to say hi. Togeth
 
 ---
 
-<h2 align="center">🌐 Find me around the web:</h2> 
+<h2 align="center">🌐 Find me around the web:</h2>
 <div align="center"> 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/-nikagagua/)
