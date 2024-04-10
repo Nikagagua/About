@@ -6,7 +6,7 @@
 ---
 
 <div align="center">
-  
+
 **About Me**
 
 Hey there! I'm Nika Gagua, a passionate software developer on a perpetual journey of learning and problem-solving. <br>
