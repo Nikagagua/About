@@ -27,7 +27,7 @@ Feel free to reach out for collaboration, discussions, or just to say hi. Togeth
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/nicknet1c/)
 
 </div> 
- 
+
 ---
 
 <h2 align="center">🛠️ Languages & Tools:</h2>
