@@ -40,7 +40,7 @@ Feel free to reach out for collaboration, discussions, or just to say hi. Togeth
 
 
 </div>
-
+ 
 <h4 align="center">Frontend Development</h4>
 <div align="center">
 
