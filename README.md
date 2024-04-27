@@ -37,7 +37,7 @@ Feel free to reach out for collaboration, discussions, or just to say hi. Togeth
 
 [![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)](https://www.python.org/)
 [![C#](https://img.shields.io/badge/-C%23-blue?style=flat-square&logo=csharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-
+ 
 
 </div>
  
