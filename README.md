@@ -82,7 +82,6 @@ Feel free to reach out for collaboration, discussions, or just to say hi. Togeth
 [![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-orange?style=flat-square&logo=microsoft-sql-server)](https://www.microsoft.com/en-us/sql-server)
 [![SQLite](https://img.shields.io/badge/-SQLite-lightgray?style=flat-square&logo=sqlite)](https://www.sqlite.org/)
 [![Azure SQL Database](https://img.shields.io/badge/-Azure%20SQL%20Database-blue?style=flat-square&logo=microsoft-azure)](https://azure.microsoft.com/services/sql-database/)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb)](https://www.mongodb.com/)
 
 </div>
 
