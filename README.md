@@ -57,7 +57,6 @@ Feel free to reach out for collaboration, discussions, or just to say hi. Togeth
  
 [![Django](https://img.shields.io/badge/-Django-darkgreen?style=flat-square&logo=django)](https://www.djangoproject.com/)
 [![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)](https://flask.palletsprojects.com/)
-[![ASP.NET](https://img.shields.io/badge/-ASP.NET-orange?style=flat-square&logo=.net)](https://dotnet.microsoft.com/apps/aspnet)
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=bootstrap)](https://getbootstrap.com/)
