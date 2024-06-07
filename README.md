@@ -2,7 +2,7 @@
 <h1>🤘🏻 Welcome to my GitHub 🤘🏻</h1>
 <img align="center" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
 </div>
- 
+
 ---
  
 <div align="center">
