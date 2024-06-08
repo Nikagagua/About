@@ -8,7 +8,7 @@
 <div align="center">
 
 **About Me**
-
+ 
 Hey there! I'm Nika Gagua, a passionate software developer on a perpetual journey of learning and problem-solving. <br>
 Exploring the ever-expanding world of Full-Stack Web Development is my current fascination. With a diverse background that brings a unique perspective to challenges, I thrive on unraveling complex problems and crafting elegant solutions. <br>
 Beyond my growing expertise in web development, I'm on a quest to master a wide range of technologies. I'm that person who spends countless hours immersed in the intricacies of the tech world, driven by an insatiable curiosity. <br>
