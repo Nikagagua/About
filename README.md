@@ -47,7 +47,7 @@ Join me in this thrilling journey of discovery, innovation, and continuous growt
 
 </div>
 
-<h2 align="center">Frontend Development</h2>
+<h3 align="center">Frontend Development</h3>
 <div align="center">
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
