@@ -121,7 +121,7 @@ Join me in this thrilling journey of discovery, innovation, and continuous growt
 
 ---
 
-## 📈 GitHub Stats:
+<h2 align="center">📈 GitHub Stats:</h2>
 <div align="center">
 
 [![Nika's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikagagua&theme=radical)](https://github.com/nikagagua)
