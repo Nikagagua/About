@@ -61,13 +61,6 @@ Join me in this thrilling journey of discovery, innovation, and continuous growt
 
 </div>
 
-<h2 align="center">Frameworks</h2>
-<div align="center">
- 
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=bootstrap)](https://getbootstrap.com/)
-
-</div>
-
 <h2 align="center">Testing</h2>
 <div align="center">
 
