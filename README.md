@@ -88,7 +88,7 @@ Join me in this thrilling journey of discovery, innovation, and continuous growt
 
 </div>
 
-### Cloud Services
+<h2 align="center">Cloud Services</h2>
 <div align="center">
  
 [![AWS](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazon-aws)](https://aws.amazon.com/)
