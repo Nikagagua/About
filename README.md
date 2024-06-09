@@ -97,7 +97,7 @@ Join me in this thrilling journey of discovery, innovation, and continuous growt
 
 </div>
 
-### Software
+<h2 align="center">Software</h2>
 <div align="center">
 
 [![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)](https://www.linux.org/)
