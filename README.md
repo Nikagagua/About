@@ -25,9 +25,9 @@ Join me in this thrilling journey of discovery, innovation, and continuous growt
 
 ---
 
-<div align="center">
 ## 🌐 Find me around the web:
 
+<div align="center">
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/-nikagagua/)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&labelColor=blue)](https://twitter.com/nicknet1c)
