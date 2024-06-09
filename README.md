@@ -42,7 +42,7 @@ Join me in this thrilling journey of discovery, innovation, and continuous growt
 [![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/-Django-darkgreen?style=flat-square&logo=django)](https://www.djangoproject.com/)
 [![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)](https://flask.palletsprojects.com/)
-[![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi)](https://fastapi.tiangolo.com/)
+[![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square)](https://fastapi.tiangolo.com/)
 
 </div>
 
