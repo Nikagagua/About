@@ -17,6 +17,7 @@ My roles at Solutions2Share have enhanced my customer service and manual testing
 These experiences have shaped me into a disciplined and well-rounded professional. <br>
 Beyond my growing expertise in web development, I'm on a quest to master a wide range of technologies. <br>
 Proficient in Python, JavaScript, and TypeScript, I work with frameworks like Django, Flask, FastAPI, React, Next.js, and Vue.js, and manage databases such as PostgreSQL, SQLite, and MongoDB. <br>
+I'm also skilled in Docker, AWS, Google Cloud, Azure, and CI/CD pipelines. <br>
 I'm that person who spends countless hours immersed in the intricacies of the tech world, driven by an insatiable curiosity. <br> 
 Join me in this thrilling journey of discovery, innovation, and continuous growth. Let's connect, learn, and make an impact through the power of code! <br>
 Feel free to reach out for collaboration, discussions, or just to say hi. Together, we can push the boundaries of what's possible in the world of technology. 
