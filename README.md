@@ -2,53 +2,57 @@
 <h1>🤘🏻 Welcome to my GitHub 🤘🏻</h1>
 <img align="center" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
 </div>
- 
+
 ---
 
-<div align="center">
+## About Me
 
-**About Me**
- 
-Hey there! I'm Nika Gagua, a passionate software developer on a perpetual journey of learning and problem-solving. <br>
-Exploring the ever-expanding world of Full-Stack Web Development is my current fascination. <br>
-With a diverse background that includes roles at Elephant Fishing GmbH, Solutions2Share, and Samsung Electronics, I bring a unique perspective to challenges, thriving on unraveling complex problems and crafting elegant solutions. <br>
-At Elephant Fishing GmbH, I am honing my full-stack development skills by balancing productivity and quality, writing, and testing clean, maintainable code. <br>
-My roles at Solutions2Share have enhanced my customer service and manual testing skills, while my experience at Samsung Electronics improved my communication abilities and provided insights into marketing. <br>
-These experiences have shaped me into a disciplined and well-rounded professional. <br>
-Beyond my growing expertise in web development, I'm on a quest to master a wide range of technologies. <br>
-Proficient in Python, JavaScript, and TypeScript, I work with frameworks like Django, Flask, FastAPI, React, Next.js, and Vue.js, and manage databases such as PostgreSQL, SQLite, and MongoDB. <br>
-I'm also skilled in Docker, AWS, Google Cloud, Azure, and CI/CD pipelines. <br>
-Coding isn't just a hobby; it's my passion and creative outlet. I find immense joy in the process of transforming ideas into reality through lines of code, whether it's building something from scratch or contributing to existing projects. I'm always excited to collaborate and share knowledge. <br> 
+Hey there! I'm Nika Gagua, a passionate software developer on a perpetual journey of learning and problem-solving. Exploring the ever-expanding world of Full-Stack Web Development is my current fascination. 
+
+With a diverse background that includes roles at Elephant Fishing GmbH, Solutions2Share, and Samsung Electronics, I bring a unique perspective to challenges, thriving on unraveling complex problems and crafting elegant solutions. At Elephant Fishing GmbH, I am honing my full-stack development skills by balancing productivity and quality, writing, and testing clean, maintainable code.
+
+My roles at Solutions2Share have enhanced my customer service and manual testing skills, while my experience at Samsung Electronics improved my communication abilities and provided insights into marketing. These experiences have shaped me into a disciplined and well-rounded professional.
+
+Beyond my growing expertise in web development, I'm on a quest to master a wide range of technologies. Proficient in Python, JavaScript, and TypeScript, I work with frameworks like Django, Flask, FastAPI, React, Next.js, and Vue.js, and manage databases such as PostgreSQL, SQLite, and MongoDB. I'm also skilled in Docker, AWS, Google Cloud, Azure, and CI/CD pipelines.
+
+Coding isn't just a hobby; it's my passion and creative outlet. I find immense joy in the process of transforming ideas into reality through lines of code, whether it's building something from scratch or contributing to existing projects. I'm always excited to collaborate and share knowledge.
+
 Join me in this thrilling journey of discovery, innovation, and continuous growth. Let's connect, learn, and make an impact through the power of code! Feel free to reach out for collaboration, discussions, or just to say hi. Together, we can push the boundaries of what's possible in the world of technology.
-</div>
- 
+
 ---
- 
-<h2 align="center">🌐 Find me around the web:</h2>
+
+## 🌐 Find me around the web:
+
 <div align="center">
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/-nikagagua/)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&labelColor=blue)](https://twitter.com/nicknet1c)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/nicknet1c/)
 
-</div> 
- 
+</div>
+
 ---
 
-<h2 align="center">🛠️ Languages & Tools:</h2>
- 
-<h4 align="center">Backend Development</h4> 
+## 🛠️ Languages & Tools:
+
+### Backend Development
 <div align="center">
  
 [![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)](https://www.python.org/)
- 
+[![Django](https://img.shields.io/badge/-Django-darkgreen?style=flat-square&logo=django)](https://www.djangoproject.com/)
+[![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)](https://flask.palletsprojects.com/)
+[![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi)](https://fastapi.tiangolo.com/)
 
 </div>
 
-<h4 align="center">Frontend Development</h4>
+### Frontend Development
 <div align="center">
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://reactjs.org/)
+[![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next-dot-js&logoColor=white)](https://nextjs.org/)
+[![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue-dot-js&logoColor=white)](https://vuejs.org/)
 [![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![HTML5](https://img.shields.io/badge/-HTML5-red?style=flat-square&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![SCSS](https://img.shields.io/badge/-SCSS-pink?style=flat-square&logo=sass)]()
@@ -56,20 +60,14 @@ Join me in this thrilling journey of discovery, innovation, and continuous growt
 
 </div>
 
-
-<h4 align="center">Frameworks</h4>
+### Frameworks
 <div align="center">
  
-[![Django](https://img.shields.io/badge/-Django-darkgreen?style=flat-square&logo=django)](https://www.djangoproject.com/)
-[![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)](https://flask.palletsprojects.com/)
-[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://reactjs.org/)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=bootstrap)](https://getbootstrap.com/)
-
 
 </div>
 
-<h4 align="center">Testing</h4>
+### Testing
 <div align="center">
 
 [![Selenium](https://img.shields.io/badge/-Selenium-darkgreen?style=flat-square&logo=selenium)](https://www.selenium.dev/)
@@ -78,7 +76,7 @@ Join me in this thrilling journey of discovery, innovation, and continuous growt
 
 </div>
 
-<h4 align="center">Databases</h4>
+### Databases
 <div align="center">
 
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-lightgray?style=flat-square&logo=postgresql)](https://www.postgresql.org/)
@@ -88,7 +86,16 @@ Join me in this thrilling journey of discovery, innovation, and continuous growt
 
 </div>
 
-<h4 align="center">Software</h4>
+### Cloud Services
+<div align="center">
+ 
+[![AWS](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazon-aws)](https://aws.amazon.com/)
+[![Google Cloud](https://img.shields.io/badge/-Google_Cloud-blue?style=flat-square&logo=google-cloud)](https://cloud.google.com/)
+[![Azure](https://img.shields.io/badge/-Azure-blue?style=flat-square&logo=microsoft-azure)](https://azure.microsoft.com/)
+
+</div>
+
+### Software
 <div align="center">
 
 [![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)](https://www.linux.org/)
@@ -97,7 +104,7 @@ Join me in this thrilling journey of discovery, innovation, and continuous growt
 
 </div>
  
-<h4 align="center">Tools</h4>
+### Tools
 <div align="center">
 
 [![PyCharm](https://img.shields.io/badge/-PyCharm-black?style=flat-square&logo=pycharm)](https://www.jetbrains.com/pycharm/)
@@ -112,7 +119,7 @@ Join me in this thrilling journey of discovery, innovation, and continuous growt
 
 ---
 
-<h2 align="center">📈 GitHub Stats:</h2>
+## 📈 GitHub Stats:
 <div align="center">
 
 [![Nika's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikagagua&theme=radical)](https://github.com/nikagagua)
@@ -130,3 +137,4 @@ Join me in this thrilling journey of discovery, innovation, and continuous growt
 For any inquiries, please reach out to me at: **Nikagagua@live.com**
 
 </div>
+
