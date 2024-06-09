@@ -7,6 +7,8 @@
 
 ## About Me
 
+<div align="center">
+
 Hey there! I'm Nika Gagua, a passionate software developer on a perpetual journey of learning and problem-solving. Exploring the ever-expanding world of Full-Stack Web Development is my current fascination. 
 
 With a diverse background that includes roles at Elephant Fishing GmbH, Solutions2Share, and Samsung Electronics, I bring a unique perspective to challenges, thriving on unraveling complex problems and crafting elegant solutions. At Elephant Fishing GmbH, I am honing my full-stack development skills by balancing productivity and quality, writing, and testing clean, maintainable code.
@@ -18,6 +20,8 @@ Beyond my growing expertise in web development, I'm on a quest to master a wide 
 Coding isn't just a hobby; it's my passion and creative outlet. I find immense joy in the process of transforming ideas into reality through lines of code, whether it's building something from scratch or contributing to existing projects. I'm always excited to collaborate and share knowledge.
 
 Join me in this thrilling journey of discovery, innovation, and continuous growth. Let's connect, learn, and make an impact through the power of code! Feel free to reach out for collaboration, discussions, or just to say hi. Together, we can push the boundaries of what's possible in the world of technology.
+
+</div>
 
 ---
 
@@ -82,6 +86,7 @@ Join me in this thrilling journey of discovery, innovation, and continuous growt
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-lightgray?style=flat-square&logo=postgresql)](https://www.postgresql.org/)
 [![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-orange?style=flat-square&logo=microsoft-sql-server)](https://www.microsoft.com/en-us/sql-server)
 [![SQLite](https://img.shields.io/badge/-SQLite-lightgray?style=flat-square&logo=sqlite)](https://www.sqlite.org/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb)](https://www.mongodb.com/)
 [![Azure SQL Database](https://img.shields.io/badge/-Azure%20SQL%20Database-blue?style=flat-square&logo=microsoft-azure)](https://azure.microsoft.com/services/sql-database/)
 
 </div>
@@ -137,4 +142,3 @@ Join me in this thrilling journey of discovery, innovation, and continuous growt
 For any inquiries, please reach out to me at: **Nikagagua@live.com**
 
 </div>
-
