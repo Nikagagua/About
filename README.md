@@ -14,6 +14,7 @@ Exploring the ever-expanding world of Full-Stack Web Development is my current f
 With a diverse background that includes roles at Elephant Fishing GmbH, Solutions2Share, and Samsung Electronics, I bring a unique perspective to challenges, thriving on unraveling complex problems and crafting elegant solutions. <br>
 At Elephant Fishing GmbH, I am honing my full-stack development skills by balancing productivity and quality, writing, and testing clean, maintainable code. <br>
 My roles at Solutions2Share have enhanced my customer service and manual testing skills, while my experience at Samsung Electronics improved my communication abilities and provided insights into marketing. <br>
+These experiences have shaped me into a disciplined and well-rounded professional. <br>
 
 Coding isn't just a hobby; it's my passion and creative outlet. I find immense joy in the process of transforming ideas into reality through lines of code. Whether it's building something from scratch or contributing to existing projects. I'm always excited to collaborate and share knowledge. <br> 
 Join me in this thrilling journey of discovery, innovation, and continuous growth. Let's connect, learn, and make an impact through the power of code! <br>
