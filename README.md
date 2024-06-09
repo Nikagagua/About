@@ -36,7 +36,6 @@ Join me in this thrilling journey of discovery, innovation, and continuous growt
 ---
 
 <h2 align="center">🛠️ Languages & Tools:</h2>
-
 <h3 align="center">Backend Development</h3>
 <div align="center">
  
