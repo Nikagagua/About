@@ -5,9 +5,9 @@
 
 ---
 
-<div align="center">
-**About Me**
+<h2 align="center">About Me:</h2>
 
+<div align="center">
 
 Hey there! I'm Nika Gagua, a passionate software developer on a perpetual journey of learning and problem-solving. Exploring the ever-expanding world of Full-Stack Web Development is my current fascination. 
 
