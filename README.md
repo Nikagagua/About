@@ -6,7 +6,6 @@
 ---
 
 <h2 align="center">About Me:</h2>
-
 <div align="center">
 
 Hey there! I'm Nika Gagua, a passionate software developer on a perpetual journey of learning and problem-solving. Exploring the ever-expanding world of Full-Stack Web Development is my current fascination. 
@@ -26,7 +25,6 @@ Join me in this thrilling journey of discovery, innovation, and continuous growt
 ---
 
 <h2 align="center">🌐 Find me around the web:</h2>
-
 <div align="center">
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/-nikagagua/)
@@ -39,7 +37,7 @@ Join me in this thrilling journey of discovery, innovation, and continuous growt
 
 <h2 align="center">🛠️ Languages & Tools:</h2>
 
-### Backend Development
+<h3 align="center">Backend Development</h3>
 <div align="center">
  
 [![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)](https://www.python.org/)
