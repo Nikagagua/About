@@ -61,14 +61,14 @@ Join me in this thrilling journey of discovery, innovation, and continuous growt
 
 </div>
 
-### Frameworks
+<h2 align="center">Frameworks</h2>
 <div align="center">
  
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=bootstrap)](https://getbootstrap.com/)
 
 </div>
 
-### Testing
+<h2 align="center">Testing</h2>
 <div align="center">
 
 [![Selenium](https://img.shields.io/badge/-Selenium-darkgreen?style=flat-square&logo=selenium)](https://www.selenium.dev/)
@@ -77,7 +77,7 @@ Join me in this thrilling journey of discovery, innovation, and continuous growt
 
 </div>
 
-### Databases
+<h2 align="center">Databases</h2>
 <div align="center">
 
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-lightgray?style=flat-square&logo=postgresql)](https://www.postgresql.org/)
