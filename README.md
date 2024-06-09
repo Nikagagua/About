@@ -106,7 +106,7 @@ Join me in this thrilling journey of discovery, innovation, and continuous growt
 
 </div>
  
-### Tools
+<h2 align="center">Tools</h2>
 <div align="center">
 
 [![PyCharm](https://img.shields.io/badge/-PyCharm-black?style=flat-square&logo=pycharm)](https://www.jetbrains.com/pycharm/)
