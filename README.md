@@ -23,7 +23,7 @@ Join me in this thrilling journey of discovery, innovation, and continuous growt
 </div>
  
 ---
-
+ 
 <h2 align="center">🌐 Find me around the web:</h2>
 <div align="center">
  
