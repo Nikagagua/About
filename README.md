@@ -21,7 +21,7 @@ Coding isn't just a hobby; it's my passion and creative outlet. I find immense j
 Join me in this thrilling journey of discovery, innovation, and continuous growth. Let's connect, learn, and make an impact through the power of code! Feel free to reach out for collaboration, discussions, or just to say hi. Together, we can push the boundaries of what's possible in the world of technology.  <br>
  
 </div>
- 
+
 ---
 
 <h2 align="center">🌐 Find me around the web:</h2>
