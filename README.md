@@ -30,7 +30,7 @@ Join me in this thrilling journey of discovery, innovation, and continuous growt
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/-nikagagua/)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&labelColor=blue)](https://twitter.com/nicknet1c)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/nicknet1c/)
-[![Resume](https://img.shields.io/badge/CV-FF0000?style=flat-square&logo=adobe-acrobat-reader&labelColor=red&logoColor=white)](https://raw.githubusercontent.com/Nikagagua/Nikagagua/master/CV%20-%20Nika%20Gagua.pdf)
+[![Resume](https://img.shields.io/badge/Resume-FF0000?style=flat-square&logo=adobe-acrobat-reader&labelColor=red&logoColor=white)](https://raw.githubusercontent.com/Nikagagua/Nikagagua/master/CV%20-%20Nika%20Gagua.pdf)
 
 </div>
 
