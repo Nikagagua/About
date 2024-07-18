@@ -120,8 +120,6 @@ Join me in this thrilling journey of discovery, innovation, and continuous growt
 
 [![Nika's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikagagua&theme=radical)](https://github.com/nikagagua)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikagagua&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
 
 ---
