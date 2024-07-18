@@ -2,12 +2,12 @@
 <h1>🤘🏻 Welcome to my GitHub 🤘🏻</h1>
 <img align="center" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
 </div>
-  
----
  
+---
+    
 <h2 align="center">About Me:</h2>
 <div align="center">
-
+ 
 Hey there! I'm Nika Gagua, a passionate software developer on a perpetual journey of learning and problem-solving. Exploring the ever-expanding world of Full-Stack Web Development is my current fascination. <br>
 
 With a diverse background that includes roles at Elephant Fishing GmbH, Solutions2Share, and Samsung Electronics, I bring a unique perspective to challenges, thriving on unraveling complex problems and crafting elegant solutions. At Elephant Fishing GmbH, I am honing my full-stack development skills by balancing productivity and quality, writing, and testing clean, maintainable code.  <br>
@@ -119,8 +119,8 @@ Join me in this thrilling journey of discovery, innovation, and continuous growt
 <div align="center">
 
 [![Nika's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikagagua&theme=radical)](https://github.com/nikagagua)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikagagua&layout=compact&theme=radical)](https://github.com/nikagagua)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikagagua&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
