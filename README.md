@@ -5,22 +5,36 @@
  
 ---
     
-<h2 align="center">About Me:</h2>
+<h2 align="center">🚀 About Me:</h2>
 <div align="center">
- 
-Hey there! I'm Nika Gagua, a passionate software developer on a perpetual journey of learning and problem-solving. Exploring the ever-expanding world of Full-Stack Web Development is my current fascination. <br>
 
-With a diverse background that includes roles at Elephant Fishing GmbH, Solutions2Share, and Samsung Electronics, I bring a unique perspective to challenges, thriving on unraveling complex problems and crafting elegant solutions. At Elephant Fishing GmbH, I am honing my full-stack development skills by balancing productivity and quality, writing, and testing clean, maintainable code.  <br>
+👋 **Hi there! I'm Nika Gagua**, a dedicated Python developer with a passion for Full-Stack Web Development and continuous learning. <br>
+My current role at **JSC MFO Swiss Capital** involves leveraging Python to build sophisticated, user-centric applications. <br><br>
 
-My roles at Solutions2Share have enhanced my customer service and manual testing skills, while my experience at Samsung Electronics improved my communication abilities and provided insights into marketing. These experiences have shaped me into a disciplined and well-rounded professional.  <br>
+🌟 **My Journey:**<br>
+With a background spanning roles at **Elephant Fishing GmbH**, **Solutions2Share**, and **Samsung Electronics**, I bring a rich perspective to tackling challenges. <br>
+At Swiss Capital, I’m honing my skills in Python, Django, and microservices, focusing on creating scalable and high-quality solutions. <br><br>
 
-Beyond my growing expertise in web development, I'm on a quest to master a wide range of technologies. Proficient in Python, JavaScript, and TypeScript, I work with frameworks like Django, Flask, FastAPI, React, Next.js, and Vue.js, and manage databases such as PostgreSQL, SQLite, and MongoDB. I'm also skilled in Docker, AWS, Google Cloud, Azure, and CI/CD pipelines.  <br>
+🔧 **Skills & Experience:**<br>
+ **Python Mastery:** Leading the development of robust web applications using Python frameworks like Django and Django REST.<br>
+ **Customer Service & Testing:** Enhanced at Solutions2Share through hands-on manual testing and customer interactions.<br>
+ **Communication & Marketing:** Gained valuable insights and improved communication skills at Samsung Electronics.<br>
+ **Technical Expertise:**<br>
+  **Languages:** Python, JavaScript<br>
+  **Frameworks:** Odoo, Django, Flask, FastAPI, React, Next.js, Vue.js<br>
+  **Databases:** PostgreSQL, SQL, SQLite, MongoDB<br>
+  **Tools:** Docker, AWS, Google Cloud, Azure, Git, Gitlab, CI/CD pipelines<br><br>
 
-Coding isn't just a hobby; it's my passion and creative outlet. I find immense joy in the process of transforming ideas into reality through lines of code, whether it's building something from scratch or contributing to existing projects. I'm always excited to collaborate and share knowledge.  <br>
+🎨 **Passion & Drive:**<br>
+Coding is my creative outlet. I thrive on transforming concepts into impactful applications and enjoy both building from scratch and enhancing existing projects. <br>
+I’m always excited to collaborate and innovate. <br><br>
 
-Join me in this thrilling journey of discovery, innovation, and continuous growth. Let's connect, learn, and make an impact through the power of code! Feel free to reach out for collaboration, discussions, or just to say hi. Together, we can push the boundaries of what's possible in the world of technology.  <br>
- 
+🚀 **Let’s Connect:**<br>
+I'm eager to explore new technologies and growth opportunities. If you're interested in discussing projects, sharing insights, or just connecting, feel free to reach out. <br>
+Let’s push the boundaries of technology together and make a meaningful impact!
+
 </div>
+
  
 ---
 
@@ -44,6 +58,9 @@ Join me in this thrilling journey of discovery, innovation, and continuous growt
 [![Django](https://img.shields.io/badge/-Django-darkgreen?style=flat-square&logo=django)](https://www.djangoproject.com/)
 [![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)](https://flask.palletsprojects.com/)
 [![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square)](https://fastapi.tiangolo.com/)
+[![Odoo](https://img.shields.io/badge/-Odoo-003a70?style=flat-square&logo=odoo)](https://www.odoo.com/)
+[![XML](https://img.shields.io/badge/-XML-lightgray?style=flat-square&logo=xml)](https://www.w3.org/XML/)
+
 
 </div>
 
@@ -59,6 +76,8 @@ Join me in this thrilling journey of discovery, innovation, and continuous growt
 [![HTML5](https://img.shields.io/badge/-HTML5-red?style=flat-square&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![SCSS](https://img.shields.io/badge/-SCSS-pink?style=flat-square&logo=sass)]()
 [![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)]()
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+
 
 </div>
  
