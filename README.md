@@ -8,30 +8,29 @@
 <h2 align="center">🚀 About Me:</h2>
 <div align="center">
 
-👋 **Hi there! I'm Nika Gagua**, a dedicated Python developer with a passion for Full-Stack Web Development and continuous learning. <br>
-My current role at **JSC MFO Swiss Capital** involves leveraging Python to build sophisticated, user-centric applications. <br><br>
+👋 **Hi there! I'm Nika Gagua**, a Computer Science Department Head with a strong background in Software Development. I combine academic leadership with hands-on technical expertise, bridging educational excellence with industry practices. <br><br>
 
-🌟 **My Journey:**<br>
-With a background spanning roles at **Elephant Fishing GmbH**, **Solutions2Share**, and **Samsung Electronics**, I bring a rich perspective to tackling challenges. <br>
-At Swiss Capital, I’m honing my skills in Python, Django, and microservices, focusing on creating scalable and high-quality solutions. <br><br>
+🌟 **Professional Journey:**<br>
+Currently leading Computer Science Department curriculum modernization and faculty development. My path includes driving innovative solutions at **JSC MFO Swiss Capital**, **Elephant Fishing GmbH**, enhancing quality processes at **Solutions2Share**, and developing user experience strategies at **Samsung Electronics**.<br><br>
 
-🔧 **Skills & Experience:**<br>
- **Python Mastery:** Leading the development of robust web applications using Python frameworks like Django and Django REST.<br>
- **Customer Service & Testing:** Enhanced at Solutions2Share through hands-on manual testing and customer interactions.<br>
- **Communication & Marketing:** Gained valuable insights and improved communication skills at Samsung Electronics.<br>
- **Technical Expertise:**<br>
-  **Languages:** Python, JavaScript<br>
-  **Frameworks:** Odoo, Django, Flask, FastAPI, React, Next.js, Vue.js<br>
-  **Databases:** PostgreSQL, SQL, SQLite, MongoDB<br>
-  **Tools:** Docker, AWS, Google Cloud, Azure, Git, Gitlab, CI/CD pipelines<br><br>
+🔧 **Leadership & Technical Excellence:**<br>
+**Academic Leadership:**
+Directing curriculum development and department modernization while managing international faculty collaboration. Overseeing academic program quality, student success, and leading examination processes with focus on educational innovation.<br>
 
-🎨 **Passion & Drive:**<br>
-Coding is my creative outlet. I thrive on transforming concepts into impactful applications and enjoy both building from scratch and enhancing existing projects. <br>
-I’m always excited to collaborate and innovate. <br><br>
+**Technical Expertise:**<br>
+**Languages:** Python, JavaScript<br>
+**Frameworks:** Odoo, Django, Flask, FastAPI, React, Next.js, Vue.js<br>
+**Databases:** PostgreSQL, SQL, SQLite, MongoDB<br>
+**Tools:** Docker, AWS, Google Cloud, Azure, Git, Gitlab, CI/CD pipelines<br><br>
 
-🚀 **Let’s Connect:**<br>
-I'm eager to explore new technologies and growth opportunities. If you're interested in discussing projects, sharing insights, or just connecting, feel free to reach out. <br>
-Let’s push the boundaries of technology together and make a meaningful impact!
+🎯 **Current Focus:**<br>
+Transforming computer science education through industry-aligned curriculum development, while maintaining active involvement in software development practices and technical innovation.<br><br>
+
+💡 **Educational Philosophy:**<br>
+Committed to bridging theoretical knowledge with practical industry experience, fostering an innovative learning environment that prepares students for real-world challenges.<br><br>
+
+🤝 **Let's Connect:**<br>
+Open to discussing educational innovation, technical collaboration, or potential partnerships in both academic and industry contexts.
 
 </div>
 
